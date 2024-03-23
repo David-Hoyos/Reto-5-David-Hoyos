@@ -1,4 +1,4 @@
-# Reto-5-David-Hoyos
+# Reto-6-David-Hoyos
 ## Punto 1
 Dado la figura de la imagen, desarrolle:
 
